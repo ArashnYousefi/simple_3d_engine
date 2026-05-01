@@ -20,7 +20,7 @@ I wanted to understand exactly what happens inside a graphics pipeline, from mod
 
 python final_code.py
 
-## how to run
+## controls
 
     WASD – move
 
